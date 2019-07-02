@@ -6,10 +6,10 @@
 *.dex
 
 # Java class files
-*.class
+*.class #java embeded software files
 
 # Generated files
-bin/
+bin/ #sum trash files
 gen/
 out/
 
@@ -24,10 +24,10 @@ local.properties
 proguard/
 
 # Log Files
-*.log
+*.log #co-log files
 
 # Android Studio Navigation editor temp files
-.navigation/
+.navigation #AST files
 
 # Android Studio captures folder
 captures/
@@ -37,4 +37,4 @@ captures/
 .idea/workspace.xml
 
 # Keystore files
-*.jks
+*.jks #saved key press
