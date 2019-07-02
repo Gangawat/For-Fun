@@ -1,5 +1,5 @@
 # Built application files
-*.apk
+*.apk #Mibiles setup files
 *.ap_
 
 # Files for the ART/Dalvik VM
